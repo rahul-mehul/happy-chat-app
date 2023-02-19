@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Happy Chat App
 
-This project was bootstrapped with [Create React App](https://happy-chatapp.netlify.app).
+This project was bootstrapped with [Happy Chat App](https://happy-chatapp.netlify.app).
 
 ## Available Scripts
 
